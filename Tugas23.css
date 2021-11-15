@@ -1,0 +1,23 @@
+.thead {
+  border-top: 20px solid rgb(71, 71, 71);
+  border-bottom: 20px solid rgb(71, 71, 71);
+  background-color: rgb(50, 162, 206);
+}
+
+.tbody {
+  border-top: 20px solid rgb(71, 71, 71);
+  border-bottom: 20px solid rgb(71, 71, 71);
+}
+
+.row-body {
+  border-bottom: 20px solid rgb(71, 71, 71);
+  background-color: green;
+}
+.row-body2 {
+  border-bottom: 20px solid rgb(71, 71, 71);
+  background-color: yellow;
+}
+.row-body3 {
+  border-bottom: 20px solid rgb(71, 71, 71);
+  background-color: rgb(224, 3, 3);
+}
